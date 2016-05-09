@@ -1,5 +1,5 @@
 
-var fs = require('fs')
+var fs = require('fs');
 var inputFile = process.argv[2];
 var numOfNewLines = undefined;
 
